@@ -51,3 +51,5 @@ LIMIT 10;
 - Job Title Variety: There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
   ![1_top_paying_roles](https://github.com/user-attachments/assets/518c65da-0f77-4fe1-a710-aead27622767)
+
+  
